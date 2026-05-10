@@ -33,4 +33,4 @@ A beginner-friendly VS Code extension that explains common programming errors in
 - AI API integration
 - Automatic terminal error detection
 - Smarter code analysis
->>>>>>> fb838623da5daa21d9d520f8a9eb29fda24bb46c
+
