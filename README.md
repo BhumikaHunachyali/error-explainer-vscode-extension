@@ -34,3 +34,19 @@ A beginner-friendly VS Code extension that explains common programming errors in
 - Automatic terminal error detection
 - Smarter code analysis
 
+## Installation
+
+1. Download the `.vsix` file from this repository  
+2. Open :contentReference[oaicite:0]{index=0}  
+3. Go to Extensions  
+4. Click **Install from VSIX**  
+5. Select the downloaded `.vsix` file  
+6. Restart VS Code if needed  
+
+## Usage
+
+1. Open any file or error message  
+2. Select the error text (optional)  
+3. Press `Ctrl + Shift + P`  
+4. Run command: **"Explain Error"**  
+5. View explanation in the output panel  
