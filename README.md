@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # error-explainer README
 
 This is the README for your extension "error-explainer". After writing up a brief description, we recommend including the following sections.
@@ -69,3 +70,39 @@ You can author your README using Visual Studio Code. Here are some useful editor
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
+=======
+# Error Explainer VS Code Extension
+
+A beginner-friendly VS Code extension that explains common programming errors in simple language.
+
+## Features
+- Detects common errors like:
+  - SyntaxError
+  - TypeError
+  - NameError
+  - IndexError
+  - KeyError
+  - AttributeError
+
+- Multiple input methods:
+  - Selected text
+  - Clipboard
+  - Manual input
+
+- Beginner-friendly explanations with examples and fixes
+
+## How It Works
+1. Copy or select an error message
+2. Run "Explain Error" command
+3. View explanation in output panel
+
+## Built With
+- TypeScript
+- VS Code Extension API
+- Node.js
+
+## Future Improvements
+- AI API integration
+- Automatic terminal error detection
+- Smarter code analysis
+>>>>>>> fb838623da5daa21d9d520f8a9eb29fda24bb46c
