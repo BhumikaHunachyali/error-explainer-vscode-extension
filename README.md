@@ -37,7 +37,7 @@ A beginner-friendly VS Code extension that explains common programming errors in
 ## Installation
 
 1. Download the `.vsix` file from this repository  
-2. Open :contentReference[oaicite:0]{index=0}  
+2. Open :contentReference
 3. Go to Extensions  
 4. Click **Install from VSIX**  
 5. Select the downloaded `.vsix` file  
